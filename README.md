@@ -117,4 +117,5 @@ El uso de IA se limitó exclusivamente al área visual y de presentación (HTML,
 
 Firmado por:
 Gabriela Vanessa Alberto Escalón 
+
 Katherine Gisella Garay Alvarado
