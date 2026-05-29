@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(Get-ChildItem -Path \"c:\\\\xampp\\\\htdocs\\\\DataAuditLabs\" -Recurse -Directory)",
-      "Bash(Select-Object -First 30)"
-    ]
-  }
-}
